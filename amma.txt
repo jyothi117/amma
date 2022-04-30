@@ -1,1 +1,8 @@
-amma
+echo amma
+date
+echo nanna
+date
+echo sadisthusband
+date
+echo potti
+date
