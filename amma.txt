@@ -10,3 +10,4 @@ date
 date
 echo poll
 echo scm
+echo END
