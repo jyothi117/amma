@@ -1,8 +1,8 @@
-echo amma
+echo aguru padalamma thalli festival
 date
-echo nanna
+echo tuesday
 date
-echo sadisthusband
+echo all are coming auru
 date
-echo potti
+echo welcome to all
 date
