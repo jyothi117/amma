@@ -8,3 +8,5 @@ echo welcome to all
 date
 date
 date
+echo poll
+echo scm
